@@ -56,6 +56,6 @@ The project is designed with secure coding and modular architecture in mind.
 
 ## Demo Video
 
--**Project Explanation:** https://screenrec.com/share/nho2BwlEpO
--**Output Explanation:** https://screenrec.com/share/kpA5wDr7vo
+- **Project Explanation:** https://screenrec.com/share/nho2BwlEpO
+- **Output Explanation:** https://screenrec.com/share/kpA5wDr7vo
 
