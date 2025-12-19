@@ -54,8 +54,3 @@ The chatbot uses a hybrid approach for sentiment detection:
 API keys are not stored in the repository and must be supplied through environment variables.
 The project is designed with secure coding and modular architecture in mind.
 
-## Demo Video
-
-- **Project Explanation:** https://screenrec.com/share/nho2BwlEpO
-- **Output Explanation:** https://screenrec.com/share/kpA5wDr7vo
-
